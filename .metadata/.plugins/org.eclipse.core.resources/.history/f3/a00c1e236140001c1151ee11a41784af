@@ -1,0 +1,5 @@
+package com.ankur.userservice.entity;
+
+public class User {
+
+}

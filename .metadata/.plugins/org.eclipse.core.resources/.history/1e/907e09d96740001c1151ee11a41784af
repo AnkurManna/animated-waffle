@@ -1,0 +1,13 @@
+delete from User;
+
+insert into Ingredient (firstName, lastName,email,departmentId)
+ values ('Ankur', 'Manna', 'abc@xyz.com', 1);
+ 
+ insert into Ingredient (firstName, lastName,email,departmentId)
+ values ('Ankita', 'Manna', 'abc@xyz.com', 1);
+ insert into Ingredient (firstName, lastName,email,departmentId)
+ values ('Ramesh', 'Manna', 'abc@xyz.com', 1);
+ insert into Ingredient (firstName, lastName,email,departmentId)
+ values ('Asima', 'Manna', 'abc@xyz.com', 1);
+ insert into Ingredient (firstName, lastName,email,departmentId)
+ values ('Nirmal', 'Manna', 'abc@xyz.com', 1);

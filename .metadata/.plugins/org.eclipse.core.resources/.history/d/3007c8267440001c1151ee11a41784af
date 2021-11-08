@@ -1,0 +1,8 @@
+spring.h2.console.enabled=true
+spring.sql.init.platform=h2
+spring.datasource.url=jdbc:h2:mem:ankur
+spring.jpa.show-sql=true
+spring.sql.init.data-locations=classpath:Data.sql
+spring.datasource.username=sa
+spring.datasource.password=
+server.port=9002

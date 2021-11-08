@@ -1,0 +1,4 @@
+
+spring.datasource.url=jdbc:h2:mem:ankur
+spring.jpa.show-sql=true
+server.port=9002

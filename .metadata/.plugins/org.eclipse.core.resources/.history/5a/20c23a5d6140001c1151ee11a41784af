@@ -1,0 +1,5 @@
+package com.ankur.userservice.repository;
+
+public interface UserRepository {
+
+}

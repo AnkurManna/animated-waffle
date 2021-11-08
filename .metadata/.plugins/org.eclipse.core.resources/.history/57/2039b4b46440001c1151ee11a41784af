@@ -1,0 +1,29 @@
+package com.ankur.userservice.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.ankur.userservice.VO.ResponseTemplateVO;
+import com.ankur.userservice.entity.User;
+import com.ankur.userservice.repository.UserRepository;
+
+@Service
+public class UserService {
+
+	@Autowired
+	private UserRepository repository;
+
+	public User saveUser(User user) {
+		// TODO Auto-generated method stub
+		return repository.save(user);
+	}
+
+	public ResponseTemplateVO getUserWithDepartment(Long userId) {
+		// TODO Auto-generated method stub
+		ResponseTemplateVO vo = new ResponseTemplateVO();
+		Optional<User> user  = repository.findById(userId);
+		return null;
+	}
+}

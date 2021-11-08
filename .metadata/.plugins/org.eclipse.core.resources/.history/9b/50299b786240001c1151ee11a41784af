@@ -1,0 +1,5 @@
+package com.ankur.userservice.VO;
+
+public class Department {
+
+}

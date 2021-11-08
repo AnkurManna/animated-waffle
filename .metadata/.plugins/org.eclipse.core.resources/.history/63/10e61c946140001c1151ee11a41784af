@@ -1,0 +1,5 @@
+package com.ankur.userservice.controller;
+
+public class UserController {
+
+}
