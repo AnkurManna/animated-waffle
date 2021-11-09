@@ -6237,3 +6237,432 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:28.685
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:28.694
+!MESSAGE classpath=172 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:28.703
+!MESSAGE buffering callback sts4.classpath.MPIjWqqJ cloud-gateway false 172
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:28.704
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:28.895
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:38.283
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:38.292
+!MESSAGE classpath=172 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:38.297
+!MESSAGE buffering callback sts4.classpath.MPIjWqqJ cloud-gateway false 172
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:38.298
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:22:38.328
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:52:49.146
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:52:49.152
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:52:49.163
+!MESSAGE buffering callback sts4.classpath.MPIjWqqJ user-service false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:52:49.163
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 11:52:51.170
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-11-09 11:52:51.171
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:10.915
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:10.927
+!MESSAGE classpath=173 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:10.932
+!MESSAGE buffering callback sts4.classpath.MPIjWqqJ cloud-gateway false 173
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:10.933
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:11.156
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:18.546
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:18.558
+!MESSAGE classpath=139 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:18.563
+!MESSAGE buffering callback sts4.classpath.MPIjWqqJ user-service false 139
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:18.564
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:19.254
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:19.279
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:19.304
+!MESSAGE classpath=173 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:19.309
+!MESSAGE buffering callback sts4.classpath.MPIjWqqJ cloud-gateway false 173
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:19.310
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:03:20.814
+!MESSAGE executing callback sts4.classpath.MPIjWqqJ SUCCESS [done]
+
+!ENTRY org.eclipse.egit.core 4 0 2021-11-09 12:07:27.808
+!MESSAGE Failed finding RepositoryMapping
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/cloud-gateway/src/main/resources/META-INF)[369]: java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.indexdiff.GitResourceDeltaVisitor.visit(GitResourceDeltaVisitor.java:142)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$6.resourceChanged(IndexDiffCacheEntry.java:750)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:381)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1503)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2333)
+	at org.eclipse.lsp4e.LSPEclipseUtils.applyWorkspaceEdit(LSPEclipseUtils.java:626)
+	at org.eclipse.lsp4e.LanguageClientImpl$3.run(LanguageClientImpl.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 369 2021-11-09 12:07:27.810
+!MESSAGE Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+!STACK 0
+java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.indexdiff.GitResourceDeltaVisitor.visit(GitResourceDeltaVisitor.java:142)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$6.resourceChanged(IndexDiffCacheEntry.java:750)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:381)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1503)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2333)
+	at org.eclipse.lsp4e.LSPEclipseUtils.applyWorkspaceEdit(LSPEclipseUtils.java:626)
+	at org.eclipse.lsp4e.LanguageClientImpl$3.run(LanguageClientImpl.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.core 4 0 2021-11-09 12:07:27.813
+!MESSAGE Failed finding RepositoryMapping
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/cloud-gateway/src/main/resources/META-INF)[369]: java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.indexdiff.GitResourceDeltaVisitor.visit(GitResourceDeltaVisitor.java:142)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$6.resourceChanged(IndexDiffCacheEntry.java:750)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:381)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1503)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2333)
+	at org.eclipse.lsp4e.LSPEclipseUtils.applyWorkspaceEdit(LSPEclipseUtils.java:626)
+	at org.eclipse.lsp4e.LanguageClientImpl$3.run(LanguageClientImpl.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 369 2021-11-09 12:07:27.813
+!MESSAGE Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+!STACK 0
+java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.indexdiff.GitResourceDeltaVisitor.visit(GitResourceDeltaVisitor.java:142)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$6.resourceChanged(IndexDiffCacheEntry.java:750)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:381)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1503)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2327)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2333)
+	at org.eclipse.lsp4e.LSPEclipseUtils.applyWorkspaceEdit(LSPEclipseUtils.java:626)
+	at org.eclipse.lsp4e.LanguageClientImpl$3.run(LanguageClientImpl.java:88)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.core 4 0 2021-11-09 12:07:28.452
+!MESSAGE Failed finding RepositoryMapping
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/cloud-gateway/src/main/resources/META-INF)[369]: java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.info.GitItemStateFactory.getIndexDiffDataOrNull(GitItemStateFactory.java:106)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:193)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 369 2021-11-09 12:07:28.453
+!MESSAGE Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+!STACK 0
+java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.info.GitItemStateFactory.getIndexDiffDataOrNull(GitItemStateFactory.java:106)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:193)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.core 4 0 2021-11-09 12:07:28.454
+!MESSAGE Failed finding RepositoryMapping
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/cloud-gateway/src/main/resources/META-INF)[369]: java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.ui.internal.decorators.DecoratableResourceAdapter.<init>(DecoratableResourceAdapter.java:50)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:198)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 369 2021-11-09 12:07:28.455
+!MESSAGE Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+!STACK 0
+java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.ui.internal.decorators.DecoratableResourceAdapter.<init>(DecoratableResourceAdapter.java:50)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:198)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.core 4 0 2021-11-09 12:07:31.892
+!MESSAGE Failed finding RepositoryMapping
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/cloud-gateway/src/main/resources/META-INF)[369]: java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.info.GitItemStateFactory.getIndexDiffDataOrNull(GitItemStateFactory.java:106)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:193)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 369 2021-11-09 12:07:31.892
+!MESSAGE Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+!STACK 0
+java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getRepository(ResourceUtil.java:708)
+	at org.eclipse.egit.core.internal.info.GitItemStateFactory.getIndexDiffDataOrNull(GitItemStateFactory.java:106)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:193)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.core 4 0 2021-11-09 12:07:31.893
+!MESSAGE Failed finding RepositoryMapping
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/cloud-gateway/src/main/resources/META-INF)[369]: java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.ui.internal.decorators.DecoratableResourceAdapter.<init>(DecoratableResourceAdapter.java:50)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:198)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 369 2021-11-09 12:07:31.893
+!MESSAGE Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+!STACK 0
+java.lang.Exception: Resource '/cloud-gateway/src/main/resources/META-INF' is not local.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkLocal(Resource.java:342)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:211)
+	at org.eclipse.core.internal.resources.Resource.getSessionProperty(Resource.java:1182)
+	at org.eclipse.egit.core.project.GitProjectData.getRepositoryMapping(GitProjectData.java:568)
+	at org.eclipse.egit.core.project.RepositoryMapping.findMapping(RepositoryMapping.java:360)
+	at org.eclipse.egit.core.project.RepositoryMapping.getMapping(RepositoryMapping.java:296)
+	at org.eclipse.egit.ui.internal.decorators.DecoratableResourceAdapter.<init>(DecoratableResourceAdapter.java:50)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:198)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:171)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:247)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:386)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:362)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
