@@ -1,2 +1,2 @@
 server:  port: 9001
-spring:  h2:    console:      enabled: true  sql:    init:      platform: h2  datasource:    url: jdbc:h2:mem:ankur  jpa:    show-sql: true  application:    name: DEPARTMENT-SERVICE        
+spring:  h2:    console:      enabled: true  sql:    init:      platform: h2  datasource:    url: jdbc:h2:mem:ankur  jpa:    show-sql: true  application:    name: DEPARTMENT-SERVICE  zipkin:    base-url:  http://127.0.0.1:9411/        
